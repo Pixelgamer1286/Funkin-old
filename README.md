@@ -1,4 +1,4 @@
-# Friday Night Funkin Old Version Remake Beta
+# Friday Night Funkin Old Version Remake Beta 
 
 This is the re-old-repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
 
