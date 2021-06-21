@@ -17,7 +17,7 @@ This game was made with love to Newgrounds and it's community. Extra love to Tom
 
 ## [Build instructions](https://github.com/ninjamuffin99/Funkin#build-instructions)
 
-## [Beta Release Soon]()
+## [Beta Release](https://github.com/Pixelgamer1286/Funkin-old/tree/beta)
 
 I work on fnf 1 Nov Build 3 but i make beta to see in upcomming release.
-Beta 1 11:15 AM
+[Beta 1](https://github.com/Pixelgamer1286/Funkin-old/releases/tag/v0.2)
