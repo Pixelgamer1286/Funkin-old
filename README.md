@@ -16,3 +16,8 @@ Support the project on the itch.io page: https://ninja-muffin24.itch.io/funkin
 This game was made with love to Newgrounds and it's community. Extra love to Tom Fulp.
 
 ## [Build instructions](https://github.com/ninjamuffin99/Funkin#build-instructions)
+
+## [Beta Release Soon]()
+
+I work on fnf 1 Nov Build 3 but i make beta to see in upcomming release.
+Beta 1 11:15 AM
